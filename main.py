@@ -1,4 +1,4 @@
-from core.core import Core
+from core import Core
 from curators.filters import Curator
 from labyrinth.routes import Labyrinth
 from experiment.test_modules import test_new_idea
