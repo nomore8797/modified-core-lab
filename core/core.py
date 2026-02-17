@@ -1,4 +1,3 @@
-python
 class Core:
     def __init__(self):
         self.active_routes = []
